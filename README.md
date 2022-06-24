@@ -5,7 +5,7 @@ This is a Hardhat setup to deploy the necessary contracts of Uniswap.
 
 We choose the Ropsten test network to deploy Uniswap-v2. First, we need to obtain test tokens.
 
- [Official Faucet](https://pubnodestest.cypherium.io).
+ [Official Faucet](https://ropstenfaucet.cypherium.io/).
 
 ## Add Cypherium Ropsten network to MetaMask
    - Network Name: Cypherium Ropsten
