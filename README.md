@@ -1,17 +1,12 @@
 # Deploy Uniswap V2 to Cypherium
 
 This is a Hardhat setup to deploy the necessary contracts of Uniswap.
-## Get test tokens
+## Generate an account and Get test tokens
 
-We choose the Ropsten test network to deploy Uniswap-v2. First, we need to obtain test tokens.
+You need generate or provide an eth account and it's privatekey using MetaMask or others. We choose the Ropsten test network to deploy Uniswap-v2. First, we need to obtain test tokens.
 
  [Official Faucet](https://ropstenfaucet.cypherium.io/).
 
-## Add Cypherium Ropsten network to MetaMask
-   - Network Name: Cypherium Ropsten
-   - New RPC URL: https://pubnodestest.cypherium.io
-   - Chain ID:16163
-    
 ## Get Started
 
 Clone repo:
