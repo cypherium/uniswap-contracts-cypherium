@@ -8,10 +8,10 @@ We choose the Ropsten test network to deploy Uniswap-v2. First, we need to obtai
  [Official Faucet](https://pubnodestest.cypherium.io).
 
 ## Add Cypherium Ropsten network to MetaMask
-  `Network Name: Cypherium Ropsten
-   New RPC URL: https://pubnodestest.cypherium.io
-   Chain ID:16163
-   `  
+    - Network Name: Cypherium Ropsten
+    - New RPC URL: https://pubnodestest.cypherium.io
+    - Chain ID:16163
+    
 ## Get Started
 
 Clone repo:
