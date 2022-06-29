@@ -1,4 +1,4 @@
-# Deploy Uniswap V2 to Cypherium
+# Deploy contracts of Uniswap V2 to Cypherium
 
 This is a Hardhat setup to deploy the necessary contracts of Uniswap.
 ## Generate an account and Get test tokens
