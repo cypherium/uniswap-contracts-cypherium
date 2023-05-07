@@ -6,7 +6,7 @@ require('@nomiclabs/hardhat-ethers');
 
 // Change private keys accordingly - ONLY FOR DEMOSTRATION PURPOSES - PLEASE STORE PRIVATE KEYS IN A SAFE PLACE
 const privateKey1 =
-   'c69d2f763502a1faa1d5875334f9776ca2fa14cd68563e84daf22544681df3d3';
+   '95d645c7e53fe94496901d8f3e77c0fc643ebd8f66c60b6d35b29228309526ab';
 const privateKey2 =
    'your-private-key-here';
 
@@ -18,14 +18,14 @@ module.exports = {
 
       ropsten: {
          url: 'https://pubnodestest.cypherium.io',
-         accounts: [privateKey2],
+         accounts: [privateKey1],
          gasPrice: 1750809638,
-         chainId: 16163,
+         chainId: 16164,
       },
       dev: {
          url: 'http://127.0.0.1:8000',
          accounts: [privateKey1],
-         network_id: '16163',
+         network_id: '16164',
          gasPrice: 0,
          chainId: 16163,
       },
